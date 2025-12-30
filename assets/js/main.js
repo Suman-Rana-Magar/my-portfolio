@@ -60,8 +60,7 @@ const texts = [
     'Laravel Developer',
     'WordPress Developer',
     'SEO Analyst',
-    'Backend Engineer',
-    'Full Stack Developer'
+    'Backend Engineer'
 ];
 
 let textIndex = 0;
